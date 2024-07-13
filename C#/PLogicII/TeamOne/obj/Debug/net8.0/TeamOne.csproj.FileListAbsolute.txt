@@ -1,0 +1,14 @@
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\bin\Debug\net8.0\TeamOne.exe
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\bin\Debug\net8.0\TeamOne.deps.json
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\bin\Debug\net8.0\TeamOne.runtimeconfig.json
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\bin\Debug\net8.0\TeamOne.dll
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\bin\Debug\net8.0\TeamOne.pdb
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\TeamOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\TeamOne.AssemblyInfoInputs.cache
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\TeamOne.AssemblyInfo.cs
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\TeamOne.csproj.CoreCompileInputs.cache
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\TeamOne.dll
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\refint\TeamOne.dll
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\TeamOne.pdb
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\TeamOne.genruntimeconfig.cache
+D:\MyCode\Loading\csharp\projects\LogicaPII\Grup1\obj\Debug\net8.0\ref\TeamOne.dll
